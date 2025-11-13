@@ -9,9 +9,7 @@
 
 .right_img {height: 700px; margin-left: 80px;}
 .right_img_content {display: flex; flex-flow: row nowrap;}
-.right_img_content .item img {width: 20px;}
 .right_img_content .item img {width: 280px;}
-
 
 .right_img .main_txt h1 {font-size: 2rem; font-weight: 600; padding: 50px 0 20px; }
 .right_img .main_txt p {font-size: 0.85rem; color: #9E9E9E; padding-bottom: 220px;}
@@ -26,3 +24,4 @@
 .bottom_content h3 {font-size: 1.25rem; font-weight: 600; padding: 100px 0 20px;}
 .bottom_content .sub_txt {display: flex; flex-flow: row nowrap; justify-content: space-between; align-items: end;}
 .bottom_content .sub_txt #more {padding-bottom: 20px; font-size: 0.9rem; color: #676767;}
+
